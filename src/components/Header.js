@@ -56,7 +56,7 @@ const Nav = styled.nav`
     display: flex;
     align-items: center;
     padding: 0 36px; // 0 means top and bottom and 36 means left and right padding
-
+    overflow: hidden;
 
 `
 
