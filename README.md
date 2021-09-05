@@ -1,44 +1,59 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-## Available Scripts
+# Project Title
 
-In the project directory, you can run:
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/mdarifuzzaman11/Carfax_VIN_Automations?style=for-the-badge) 
+![APM](https://img.shields.io/apm/l/test?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/mdarifuzzaman11/Carfax_VIN_Automations?style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/mdarifuzzaman11?style=for-the-badge)
 
-### `npm start`
+## Description
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+I build this clone of Diney Plus, I will be  using firebase, redux, react on dom, react slick, Styled Components to be able to create this slick animation Clone using vs code
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Getting Started
 
-### `npm test`
+### Dependencies
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Firebase, Redux, React on dom, React slick, Styled Components
+* VS Code
+* I used Macbook Pro M1
+* (Tested on Chrome)
 
-### `npm run build`
+## Installation
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Clone the repository
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+```bash
+git clone https://github.com/mdarifuzzaman11/disney-plus-clone
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## After Cloning Run the following code in Terminal of the project
 
-### `npm run eject`
+```
+npm install react-slick --save
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```
+npm install slick-carousel
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Help
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Any advise for common problems or issues.
+```
+command to run if program contains helper info
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## Authors
+MD Arifuzzaman 
+<br />
+[@_mdarifuzzaman](https://instagram.com/_mdarifuzzaman)
 
-## Learn More
+## Version History
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* 0.0.1
+    * Pre Release
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
